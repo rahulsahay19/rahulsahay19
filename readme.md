@@ -33,7 +33,3 @@ spend writing platform agnostic, cloud agnostic code.  As a code junkie, I love 
   <img  align="left" src="https://images-na.ssl-images-amazon.com/images/I/51Loq96J2dL._SX348_BO1,204,203,200_.jpg" />
 </a>
 
-
-Happy Coding
-
-
