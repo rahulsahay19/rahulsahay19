@@ -27,8 +27,6 @@ spend writing platform agnostic, cloud agnostic code.  As a code junkie, I love 
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rahulsahay19&count_private=true&show_icons=true&theme=cobalt" />
 </a>
 
-##  :books: My latest book 
-
 <a href="https://www.amazon.com/Microsoft-Architect-Technologies-Companion-Hands/dp/1484261992/ref=sr_1_14?dchild=1&keywords=rahul+sahay&qid=1597946906&sr=8-14">
   <img  align="left" src="https://images-na.ssl-images-amazon.com/images/I/51Loq96J2dL._SX348_BO1,204,203,200_.jpg" />
 </a>
