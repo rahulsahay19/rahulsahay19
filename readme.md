@@ -21,11 +21,17 @@ spend writing platform agnostic, cloud agnostic code.  As a code junkie, I love 
 - 💬 Ask me anything about my articles
 - 📫 How to reach me: [@rahulsahay19](https://twitter.com/rahulsahay19)
 
-## :trophy: My Github Stats 
+## :trophy: My Github Stats and new Releases
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rahulsahay19&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rahulsahay19&count_private=true&show_icons=true&theme=cobalt" />
+</a> \s\s
+
+
+<a href="https://www.udemy.com/course/docker-for-net-and-angular-developers/?couponCode=4AB0D94B3C8A008854A4">
+  <img width="550" height="550"  align="left" src="https://user-images.githubusercontent.com/3886381/91086120-1320e200-e66c-11ea-982d-d75f11f4f482.png" />
 </a>
+ \s\s
 
 <a href="https://www.amazon.com/Microsoft-Architect-Technologies-Companion-Hands/dp/1484261992/ref=sr_1_14?dchild=1&keywords=rahul+sahay&qid=1597946906&sr=8-14">
   <img  align="left" src="https://images-na.ssl-images-amazon.com/images/I/51Loq96J2dL._SX348_BO1,204,203,200_.jpg" />
