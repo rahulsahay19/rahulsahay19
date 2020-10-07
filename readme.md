@@ -2,7 +2,8 @@
 
 [Blog](https://myview.rahulnivi.net) |
 [Twitter](https://twitter.com/rahulsahay19) |
-[Linkedin](https://www.linkedin.com/in/rahulsahay19)
+[Linkedin](https://www.linkedin.com/in/rahulsahay19) |
+[Azure Solutions Architect Expert](https://www.youracclaim.com/badges/3a83125b-8ed1-46b7-9e03-d584a960c5be/embedded) 
 
 ---
 
