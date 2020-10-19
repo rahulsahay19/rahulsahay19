@@ -21,7 +21,7 @@ spend writing platform agnostic, cloud agnostic code.  As a code junkie, I love 
 	- C#,
 	- Angular,
 	- Azure
-- 💬 Ask me anything about my articles
+- 💬 Ask me anything about my articles [My View](https://myview.rahulnivi.net/)
 - 📫 How to reach me: [@rahulsahay19](https://twitter.com/rahulsahay19)
 
 ## :trophy: My Github Stats and new Releases
