@@ -15,6 +15,11 @@ spend writing platform agnostic, cloud agnostic code.  As a code junkie, I love 
 
 - 🔭 I’m currently working 
 	- Microservices,
+	- Spring Boot,
+	- Java,
+	- System Design,
+	- Low Level Design,
+	- DSA,
 	- Docker,
 	- Kubernetes,
 	- DotNetCore,
