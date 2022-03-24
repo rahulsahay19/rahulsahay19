@@ -7,7 +7,7 @@
 
 ---
 
-Hi, I am Rahul Sahay. I'm Microsoft MVP specializing in Web technologies.  I am platform specialist at Publicis Sapient. I have been working in various aspects of the software development life cycle for 13+ years, focusing on web stack development. I have been part of software development in different applications, ranging from client applications to web services to websites.I am also involved in designing application architecture from scratch. Most of the time spend writing platform agnostic, cloud agnostic code.  As a code junkie, I love to craft software, not only I enjoy writing software. Frankly speaking, I am blessed to work on various technologies right from **.NetCore to Java, from Angular to React and from Azure to AWS.**
+Hi, I am Rahul Sahay. I am platform specialist at Publicis Sapient. I have been working in various aspects of the software development life cycle for 13+ years, focusing on web stack development. I have been part of software development in different applications, ranging from client applications to web services to websites.I am also involved in designing application architecture from scratch. Most of the time spend writing platform agnostic, cloud agnostic code.  As a code junkie, I love to craft software, not only I enjoy writing software. Frankly speaking, I am blessed to work on various technologies right from **.NetCore to Java, from Angular to React and from Azure to AWS.**
 
 ![](https://komarev.com/ghpvc/?username=rahulsahay19&label=PROFILE+VIEWS)
 
