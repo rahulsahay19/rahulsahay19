@@ -23,11 +23,12 @@ Hi, I am Rahul Sahay. I am platform specialist at Publicis Sapient. I have been 
 	- DotNetCore,
 	- C#,
 	- Angular,
-	- React
 	- Azure
 	- AWS
 - 💬 Ask me anything about my articles [My View](https://myview.rahulnivi.net/)
 - 📫 How to reach me: [@rahulsahay19](https://twitter.com/rahulsahay19)
+- <code><img height="20" src="https://user-images.githubusercontent.com/3886381/172099124-a7596c54-798b-4bf4-af82-054a8a847c0b.png"></code>
+  Daily DSA [LeetCode]https://leetcode.com/rahulsahay19/
 
 ## :trophy: My Github Stats and new Releases
 
