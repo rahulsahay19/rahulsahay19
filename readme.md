@@ -13,8 +13,8 @@ Hi, I am Rahul Sahay. I am platform specialist at Publicis Sapient. I have been 
 
 - 🔭 I’m currently working @ below tech stacks
 	- Microservices,
-	- Spring Boot,
-	- Java,
+	- .Net Core,
+	- Web API,
 	- System Design,
 	- Low Level Design,
 	- DSA,
@@ -22,9 +22,10 @@ Hi, I am Rahul Sahay. I am platform specialist at Publicis Sapient. I have been 
 	- Kubernetes,
 	- DotNetCore,
 	- C#,
-	- Angular,
 	- Azure
-	- AWS
+	- ELK Stack
+	- Service Mesh
+	- Angular,
 - 💬 Ask me anything about my articles [My View](https://myview.rahulnivi.net/)
 - 📫 How to reach me: [@rahulsahay19](https://twitter.com/rahulsahay19)
 - <code><img height="20" src="https://user-images.githubusercontent.com/3886381/172099124-a7596c54-798b-4bf4-af82-054a8a847c0b.png"></code>
