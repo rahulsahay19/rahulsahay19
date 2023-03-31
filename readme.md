@@ -13,6 +13,9 @@ Hi, I am Rahul Sahay. I am platform specialist at Publicis Sapient. I have been 
 
 - 🔭 I’m currently working @ below tech stacks
 	- Microservices,
+	- Spring Boot
+	- Spring Cloud
+	- Java
 	- .Net Core,
 	- Web API,
 	- System Design,
