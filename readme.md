@@ -6,45 +6,53 @@
 [Azure Solutions Architect Expert](https://www.youracclaim.com/badges/3a83125b-8ed1-46b7-9e03-d584a960c5be/embedded) 
 
 ---
+I am a seasoned platform specialist with over 15 years of experience in various aspects of software development life cycle. My expertise lies in web stack development, where I have worked on different applications ranging from client applications to web services to websites. I have a proven track record of designing and developing high-quality, scalable software solutions for diverse clients across industries.
 
-Hi, I am Rahul Sahay. I am platform specialist at Publicis Sapient. I have been working in various aspects of the software development life cycle for 13+ years, focusing on web stack development. I have been part of software development in different applications, ranging from client applications to web services to websites.I am also involved in designing application architecture from scratch. Most of the time spend writing platform agnostic, cloud agnostic code.  As a code junkie, I love to craft software, not only I enjoy writing software. Frankly speaking, I am blessed to work on various technologies right from **.NetCore to Java, from Angular to React and from Azure to AWS.**
+As an architect and hands-on developer, I am passionate about writing platform-agnostic, cloud-agnostic code, and designing application architecture from scratch. I have a strong understanding of system and low-level design principles, data structures, algorithms, and software engineering best practices.
 
 ![](https://komarev.com/ghpvc/?username=rahulsahay19&label=PROFILE+VIEWS)
 
-- 🔭 I’m currently working @ below tech stacks
-	- Microservices,
-	- Spring Boot
-	- Spring Cloud
-	- Java
-	- .Net Core,
-	- Web API,
-	- System Design,
-	- Low Level Design,
-	- DSA,
-	- Docker,
-	- Kubernetes,
-	- DotNetCore,
-	- C#,
-	- Azure
-	- ELK Stack
-	- Service Mesh
-	- Angular,
+Tech Stacks I'm currently working on 🔭
+
+    Microservices 🌐
+    Spring Boot 🌸
+    Spring Cloud ☁️
+    Java ☕️
+    .Net Core 🎯
+    Web API 🕸️
+    System Design 📐
+    Low Level Design 🔍
+    DSA 🔬
+    Docker 🐳
+    Kubernetes ☸️
+    C# 🌟
+    Azure ☁️
+    ELK Stack 📈
+    Service Mesh 🔗
+    Angular 🅰️
+    
 - 💬 Ask me anything about my articles [My View](https://myview.rahulnivi.net/)
 - 📫 How to reach me: [@rahulsahay19](https://twitter.com/rahulsahay19)
 - <code><img height="20" src="https://user-images.githubusercontent.com/3886381/172099124-a7596c54-798b-4bf4-af82-054a8a847c0b.png"></code>
   Daily DSA [LeetCode]https://leetcode.com/rahulsahay19/
 
-## :trophy: My Github Stats and new Releases
+## :trophy: My Udemy Courses
+Course Links:
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rahulsahay19&count_private=true&show_icons=true&theme=cobalt">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rahulsahay19&count_private=true&show_icons=true&theme=cobalt" />
-</a> 
+    https://www.udemy.com/course/getting-started-with-clean-architecture-using-net-core/
 
-<a href="https://www.udemy.com/course/docker-for-net-and-angular-developers/?couponCode=4AB0D94B3C8A008854A4">
-  <img width="600" height="600"  align="left" src="https://user-images.githubusercontent.com/3886381/91086120-1320e200-e66c-11ea-982d-d75f11f4f482.png" />
-</a>
- 
-<a href="https://www.amazon.com/Microsoft-Architect-Technologies-Companion-Hands/dp/1484261992/ref=sr_1_14?dchild=1&keywords=rahul+sahay&qid=1597946906&sr=8-14">
-  <img  align="left" src="https://images-na.ssl-images-amazon.com/images/I/51Loq96J2dL._SX348_BO1,204,203,200_.jpg" />
-</a>
+    https://www.udemy.com/course/creating-net-core-microservices-using-clean-architecture/?couponCode=F5B7693C51A1F32EE5DF
+
+    https://www.udemy.com/course/securing-microservices-using-identity-server-4/?couponCode=26506A5A81641F94B408
+
+    https://www.udemy.com/course/implementing-cross-cutting-concerns-for-aspnet-microservice/?couponCode=8BC0558051CCA0B15B5F
+
+    https://www.udemy.com/course/versioning-microservices/?couponCode=8BC0558051CCA0B15B5F
+
+    https://www.udemy.com/course/building-ecommerce-angular-application/?couponCode=6BB7F1022C40D1A30F5C
+
+    https://www.udemy.com/course/deploying-microservices-to-kubernetes-and-aks/?couponCode=7EC60FBABC906EEA3E51
+
+    https://www.udemy.com/course/docker-for-net-and-angular-developers/?couponCode=28DDD6110A094C1AB6C3
+
 
