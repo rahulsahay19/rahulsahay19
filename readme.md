@@ -39,28 +39,22 @@ Tech Stacks I'm currently working on 🔭
 ## :trophy: My Udemy Courses
 Course Links:
 
-    Getting Started with Clean Architecture using .NET Core: This course is an introduction to Clean Architecture and how it can be implemented using .NET     Core. [Free Course](https://www.udemy.com/course/getting-started-with-clean-architecture-using-net-core/)  
+- Getting Started with Clean Architecture using .NET Core: This course is an introduction to Clean Architecture and how it can be implemented using .NET Core. [Free Course](https://www.udemy.com/course/getting-started-with-clean-architecture-using-net-core/)
 
-    Creating .NET Core Microservices using Clean Architecture: This course provides a detailed overview of building Microservices using Clean Architecture. 
-    [First Course](https://www.udemy.com/course/creating-net-core-microservices-using-clean-architecture/?couponCode=F5B7693C51A1F32EE5DF)  
+- Creating .NET Core Microservices using Clean Architecture: This course provides a detailed overview of building Microservices using Clean Architecture. [First Course](https://www.udemy.com/course/creating-net-core-microservices-using-clean-architecture/?couponCode=F5B7693C51A1F32EE5DF)
 
-    Securing Microservices using Identity Server 4: In this course, you will learn how to secure Microservices using Identity Server 4.
-    [Second Course](https://www.udemy.com/course/securing-microservices-using-identity-server-4/?couponCode=26506A5A81641F94B408)
+- Securing Microservices using Identity Server 4: In this course, you will learn how to secure Microservices using Identity Server 4. [Second Course](https://www.udemy.com/course/securing-microservices-using-identity-server-4/?couponCode=26506A5A81641F94B408)
 
-    Implementing Cross-Cutting Concerns for ASP.NET Microservices: This course teaches how to implement cross-cutting concerns for ASP.NET Microservices.
-    [Third Course](https://www.udemy.com/course/implementing-cross-cutting-concerns-for-aspnet-microservice/?couponCode=8BC0558051CCA0B15B5F)
+- Implementing Cross-Cutting Concerns for ASP.NET Microservices: This course teaches how to implement cross-cutting concerns for ASP.NET Microservices. [Third Course](https://www.udemy.com/course/implementing-cross-cutting-concerns-for-aspnet-microservice/?couponCode=8BC0558051CCA0B15B5F)
 
-    Versioning Microservices: This course teaches how to version Microservices using .NET Core.
-    [Fourth Course](https://www.udemy.com/course/versioning-microservices/?couponCode=8BC0558051CCA0B15B5F)
+- Versioning Microservices: This course teaches how to version Microservices using .NET Core. [Fourth Course](https://www.udemy.com/course/versioning-microservices/?couponCode=8BC0558051CCA0B15B5F)
 
-    Building eCommerce Angular Application: In this course, you will learn how to build an eCommerce Angular Application.
-    [Fifth Course](https://www.udemy.com/course/building-ecommerce-angular-application/?couponCode=6BB7F1022C40D1A30F5C)
+- Building eCommerce Angular Application: In this course, you will learn how to build an eCommerce Angular Application. [Fifth Course](https://www.udemy.com/course/building-ecommerce-angular-application/?couponCode=6BB7F1022C40D1A30F5C)
 
-    Deploying Microservices to Kubernetes and AKS: This course provides a step-by-step guide to deploy Microservices to Kubernetes and AKS.
-    [Sixth Course](https://www.udemy.com/course/deploying-microservices-to-kubernetes-and-aks/?couponCode=7EC60FBABC906EEA3E51)
+- Deploying Microservices to Kubernetes and AKS: This course provides a step-by-step guide to deploy Microservices to Kubernetes and AKS. [Sixth Course](https://www.udemy.com/course/deploying-microservices-to-kubernetes-and-aks/?couponCode=7EC60FBABC906EEA3E51)
 
-    Docker for .NET and Angular Developers: This course is a comprehensive guide to Docker for .NET and Angular Developers.
-    [7th Course](https://www.udemy.com/course/docker-for-net-and-angular-developers/?couponCode=28DDD6110A094C1AB6C3)
+- Docker for .NET and Angular Developers: This course is a comprehensive guide to Docker for .NET and Angular Developers. [7th Course](https://www.udemy.com/course/docker-for-net-and-angular-developers/?couponCode=28DDD6110A094C1AB6C3)
+
 
 
 We hope you find these courses helpful in your journey to become a Microservices Architect. Thank you for your interest in our courses.
