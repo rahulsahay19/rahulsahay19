@@ -6,7 +6,7 @@
 [Azure Solutions Architect Expert](https://www.youracclaim.com/badges/3a83125b-8ed1-46b7-9e03-d584a960c5be/embedded) 
 
 ---
-🔥🌍 Linked Profile: Seasoned Polyglot Developer+Architect 🔥🌍
+🔥🌍 Seasoned Polyglot Developer+Architect 🔥🌍
 
 👋 Hello there! I'm a seasoned polyglot developer+architect with a passion for cutting-edge technologies and a knack for building robust and scalable systems. 🚀
 
@@ -24,7 +24,7 @@
 
 If you're looking for a professional who can effortlessly navigate the realms of system design, microservices, Microsoft stack, Azure, Angular, infrastructure, and cloud technologies, then look no further. Let's connect and explore how we can revolutionize the world of software development together! 🚀💻
 
-📧 Connect with me at [email protected] or visit my LinkedIn profile at [LinkedIn Profile URL]. Let's build something extraordinary! ✨🌍
+📧 Connect with me at my LinkedIn profile at ![](https://www.linkedin.com/in/rahulsahay19/). Let's build something extraordinary! ✨🌍
 ![](https://komarev.com/ghpvc/?username=rahulsahay19&label=PROFILE+VIEWS)
 
 Tech Stacks I'm currently working on 🔭
