@@ -24,7 +24,7 @@
 
 If you're looking for a professional who can effortlessly navigate the realms of system design, microservices, Microsoft stack, Azure, Angular, infrastructure, and cloud technologies, then look no further. Let's connect and explore how we can revolutionize the world of software development together! 🚀💻
 
-📧 Connect with me at my LinkedIn profile at ![](https://www.linkedin.com/in/rahulsahay19/). Let's build something extraordinary! ✨🌍
+📧 Connect with me at my LinkedIn profile at [LinkedIn](https://www.linkedin.com/in/rahulsahay19/). Let's build something extraordinary! ✨🌍
 ![](https://komarev.com/ghpvc/?username=rahulsahay19&label=PROFILE+VIEWS)
 
 Tech Stacks I'm currently working on 🔭
