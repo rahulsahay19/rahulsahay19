@@ -10,13 +10,13 @@
 
 👋 Hello there! I'm a seasoned polyglot developer+architect with a passion for cutting-edge technologies and a knack for building robust and scalable systems. 🚀
 
-💻💡 With a strong background in system design and microservices architecture, I thrive in challenging environments where innovation and problem-solving are at the forefront. I'm a hardcore developer who excels in the Microsoft stack, particularly in .NET Core, and I hold the prestigious Azure Solution Architect certification. 🎓
+💻💡 With a strong background in system design and microservices architecture, I thrive in challenging environments where innovation and problem-solving are at the forefront. I'm a hardcore developer who excels in the Microsoft and Java stack and I hold the prestigious Azure Solution Architect certification. 🎓
 
 🌐🏢 When it comes to front-end development, I'm an Angular expert, creating dynamic and responsive user interfaces that captivate users. I believe in delivering seamless experiences across devices and platforms. 🖥️📱
 
 🏗️ In addition to my development prowess, I also have a keen eye for infrastructure roles. I love working with pipelines, Docker, and Kubernetes to ensure smooth and efficient deployment of applications. I'm well-versed in various cloud flavors, including SAAS, PAAS, and IAAS, and can architect solutions that leverage their full potential. ☁️🛠️
 
-🌱🔧 Spring Boot microservices are another area where I've honed my skills. I've designed numerous applications, leveraging the power and flexibility of this framework. While my expertise lies primarily in .NET Core, I'm not afraid to explore different technologies to find the best solution for a given problem. 🌱🔧
+🌱🔧 Spring Boot microservices is another my favorite area. I've designed numerous applications, leveraging the power and flexibility of this framework. 🌱🔧
 
 💡💼 In my journey, I've become well-versed in microservices design patterns, understanding how to create scalable, maintainable, and decoupled architectures. I believe that clean code and elegant solutions are essential for success in any development endeavor. 💡💼
 
@@ -32,7 +32,10 @@ If you're looking for a professional who can effortlessly navigate the realms of
 Tech Stacks I'm currently working on 🔭
 
     Microservices 🌐    
-    .Net Core 🎯
+    .Net Core 🎯    
+    Spring Boot 🌸
+    Spring Cloud ☁️
+    Java ☕️
     Web API 🕸️
     System Design 📐
     Low Level Design 🔍
@@ -43,12 +46,9 @@ Tech Stacks I'm currently working on 🔭
     Azure ☁️
     ELK Stack 📈
     Service Mesh 🔗
-    Spring Boot 🌸
-    Spring Cloud ☁️
-    Java ☕️
     Angular 🅰️
     
-- 💬 Ask me anything about my articles [My View](https://myview.rahulnivi.net/)
+- 💬 Ask me anything about my articles [My Blog](http://rahulsahay.com/)
 - 📫 How to reach me: [@rahulsahay19](https://twitter.com/rahulsahay19)
 - <code><img height="20" src="https://user-images.githubusercontent.com/3886381/172099124-a7596c54-798b-4bf4-af82-054a8a847c0b.png"></code>
   Daily DSA [LeetCode]https://leetcode.com/rahulsahay19/
